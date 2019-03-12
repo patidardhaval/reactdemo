@@ -1,0 +1,19 @@
+{
+  "name": "reactdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "precache-manifest.97281b9d27eb6f4beb5e0bb09d747ff7.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patidardhaval/reactdemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patidardhaval/reactdemo/issues"
+  },
+  "homepage": "https://github.com/patidardhaval/reactdemo#readme"
+}
